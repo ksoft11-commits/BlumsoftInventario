@@ -1,0 +1,12 @@
+# Archivos compilados
+out/
+
+# Configuraciones personales del editor
+.vscode/
+
+# Archivos temporales de Java
+*.class
+
+# Archivos de configuracion local
+.env
+config.properties
