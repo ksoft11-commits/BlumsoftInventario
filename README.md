@@ -38,8 +38,8 @@ Para crear la base de datos, ejecutar el archivo database/blumsoft.sql desde MyS
 ## Ejecucion del proyecto
 1. Instalar Java JDK 21.
 2. Instalar y ejecutar MySQL Server.
-3. Crear la base de datos utilizando el script SQL.
-4. Configurar las credenciales de acceso a MySQL en ConexionBD.java.
+3. Crear la base de datos utilizando el script SQL ubicado en database/blumsoft.sql.
+4. Configurar las variables de entorno BLUMSOFT_DB_USER y BLUMSOFT_DB_PASSWORD con las credenciales de MySQL.
 5. Abrir la carpeta del proyecto en Visual Studio Code.
 6. Compilar las clases Java.
 7. Ejecutar la clase Main.
